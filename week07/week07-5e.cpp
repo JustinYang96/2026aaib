@@ -1,0 +1,8 @@
+//week07-5e
+#include <stdio.h>
+int main()
+{
+	int a, b;
+	scanf("%d%d", &a, &b);
+	printf("%d", a*a-b*b);
+}
